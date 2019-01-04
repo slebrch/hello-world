@@ -1,6 +1,4 @@
 # hello-world
-Just a Test
+Just a test, nothing more. 
 
-Hi all,
-
-I saw a dog today. It saw me too. I have two balls, it had none.
+Edits, edits, edits.
